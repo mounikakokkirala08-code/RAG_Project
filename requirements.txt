@@ -1,0 +1,15 @@
+langchain>=0.3.20
+langchain-community>=0.3.20
+langchain-text-splitters>=0.3.7
+sentence-transformers>=3.4.cd C:\RAG_Workflow\sbc-rag
+1
+faiss-cpu>=1.9.0
+pypdf>=5.3.0
+streamlit>=1.42.0
+ollama>=0.4.7
+pandas>=2.2.0
+langchain-huggingface
+
+cd C:\RAG_Workflow\sbc-rag
+.\.venv\Scripts\Activate.ps1
+python -m streamlit run app.py

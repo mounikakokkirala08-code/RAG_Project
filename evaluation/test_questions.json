@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "question": "What services and benefits does this plan cover?",
+    "purpose": "General benefits overview"
+  },
+  {
+    "id": 2,
+    "question": "What preventive health services are covered?",
+    "purpose": "Specific covered service"
+  },
+  {
+    "id": 3,
+    "question": "What does the document say about TMJ disorder treatment?",
+    "purpose": "Specific treatment coverage"
+  },
+  {
+    "id": 4,
+    "question": "What cost-sharing amounts apply to covered services?",
+    "purpose": "Member costs"
+  },
+  {
+    "id": 5,
+    "question": "What benefit limits may apply to covered services?",
+    "purpose": "Coverage limits"
+  },
+  {
+    "id": 6,
+    "question": "What are the member's responsibilities under this health plan?",
+    "purpose": "Member responsibilities"
+  },
+  {
+    "id": 7,
+    "question": "Where can I find the Schedule of Benefits?",
+    "purpose": "Document navigation"
+  },
+  {
+    "id": 8,
+    "question": "Does the provided document explain every detail of coverage?",
+    "purpose": "Answer completeness and limitations"
+  }
+]

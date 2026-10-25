@@ -1,0 +1,20 @@
+
+[project]
+name = "rag-workflow"
+version = "0.1.0"
+description = "Retrieval-Augmented Generation assistant for SBC health plan documents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-community",
+    "langchain-text-splitters",
+    "langchain-huggingface",
+    "langchain-ollama",
+    "sentence-transformers",
+    "faiss-cpu",
+    "pypdf",
+    "streamlit",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,40 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local model and dataset files
+*.safetensors
+*.gguf
+
+# Generated FAISS indexes
+indexes/
+
+# Optional: ignore local PDFs that may contain private information
+# Uncomment the next line if you do not want PDFs committed to GitHub
+# data/*.pdf
